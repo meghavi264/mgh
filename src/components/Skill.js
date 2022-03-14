@@ -14,7 +14,7 @@ const carddata = [{ percentage: "70", lang_name:"Javascript, ", lang_name_2:"Jqu
 { percentage: "75", lang_name:"HTML", lang_info:"Master in html to built up standard structure websites" },
 
 { percentage: "80", lang_name:"CSS, ",lang_name_2:"SCSS,", lang_name_3:"BOOTSTRAP", lang_info:"mastery of carving and styling web pages using CSS/SCSS " },
-{ percentage: "70", lang_name:"WORDPRESS", lang_info:"Great in develop quick and efficient CMS based Websites" },
+{ percentage: "70", lang_name:"WORDPRESS", lang_info:"Great in developing quick and efficient CMS based Websites" },
 { percentage: "45", lang_name:"ReactJS", lang_info:"Good in build-up fast and flexibile Websites" },
 { percentage: "70", lang_name:"Photoshop, ", lang_name_2:"figma, ", lang_name_3:"coreldraw", lang_info:"Love to crafting and carving  with unique design idea " }];
 

@@ -1,11 +1,11 @@
 import React from 'react';
 
 const edudata = [{edu_id:"1", edu_degree:"Master of Education(Computer Science Engineering)",edu_inf:"Indrashil Institute of Science and Technology Kadi- Rajpur, Gujarat in 2017; Secured 8.14 CGPA.", proj_info:"VRCS (voice interaction computer system with aiml chat bot)",
-duration:"Semester 4", technologies: ".NET, MSSQL"},
+duration:"4th Semester", technologies: ".NET, MSSQL"},
 { edu_id:"2", edu_degree:"Bachelor of Education(Computer Science Engineering)",edu_inf:"Indrashil Institute of Science and Technology Kadi- Rajpur, Gujarat in 2015; Secured 7.36 CGPA.", proj_info:"Locate Them (Location Tracking Application)",
-duration:"Semester 7-8", technologies: "C#.NET, MSSQL, Android"  },
+duration:"7th -8th Semester", technologies: "C#.NET, MSSQL, Android"  },
 {  edu_id:"3", edu_degree:"Diploma of Education(Computer Science Engineering)",edu_inf:" Indrashil Institute of Science and Technology Kadi- Rajpur, Gujarat in 2015; Secured 7.36 CGPA.", proj_info:"I-Gaming (Online Gaming Web Application)",
-duration:"Semester 6", technologies: "C#, .NET, MSSQL "},
+duration:"6th Semester ", technologies: "C#, .NET, MSSQL "},
 
 
 ];

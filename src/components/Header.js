@@ -58,7 +58,7 @@ class Header extends Component {
         <Nav.Link href="#about" eventKey="link-1">Home</Nav.Link>
         <Nav.Link href="#aboutmore">About</Nav.Link>
         <Nav.Link href="#skill">Skill</Nav.Link>
-        <Nav.Link href="#exeriance">Exeriance</Nav.Link>
+        <Nav.Link href="#experience">Exerience</Nav.Link>
         <Nav.Link href="#projects">Projects</Nav.Link>
         <Nav.Link href="#education">Education</Nav.Link>
         <Nav.Link href="#footer">Contact</Nav.Link>

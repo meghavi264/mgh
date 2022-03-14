@@ -97,7 +97,7 @@ useEffect(() =>{
        </div>
        <div className="col-12 col-md-6 about-cont-section">
          <div className="about-content text-right">
-           <h2>Hi, I myself <span>Meghavi </span></h2>
+           <h2>Hi, Myself <span>Meghavi </span></h2>
            <h1> <span>Develop</span> & <span> Design</span> websites </h1>
            <p>I am UI/Frontend developer, who loves clean, simple & unique designing and developing. I also loves crafting brand identities and creative works that helps people's business to grow.</p>
            <button type="sumit" className="btn btn-mgh" onClick={handleShow}  >Get Resume  <FontAwesomeIcon icon={faDownload} size="1x" /></button>

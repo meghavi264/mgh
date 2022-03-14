@@ -8,7 +8,7 @@ import Header from './components/Header';
 import About from './components/About';
 import AboutMore from './components/AboutMore';
 import Skill from './components/Skill';
-import Experience from './components/Experiance';
+import Experience from './components/Experience';
 import MProjects from "./components/MProjects";
 import Footer from "./components/Footer";
 import Education from "./components/Education";

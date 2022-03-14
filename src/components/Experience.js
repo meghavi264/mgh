@@ -1,10 +1,10 @@
 import React from 'react';
 
-const expdata = [{ year: "2019-Current", exp_info:"Etech Global Services, Gujarat, Gandhinagar as UI/Web Developer/Frontend/Designer", key_1:"Involve as Frontend Developer and designer on Multiple projects Like Amrit Ocean, VMS (voter management system). using various tools, visual Studio Code and implemented them using PHP, jQuery, HTML, CSS.", key_2:"Involve as UI/Frontend Developer and Designer on Business Websites (Amrit (Resort & Residences), ETech,Qevalpro, Etech Technology Solutions, Ayre, CMO) and implemented them using WordPress, Php, jQuery, HTML, CSS.", key_3: "Design/Developed and Manage/Handle Websites (Amrit, Etech, Qevalpro, JimIyoob, Enterice, Etech DFDMart,BBC Technology, CMO) Responsibilities with Responsive UI" },
+const expdata = [{ year: "2019-Current", exp_info:"Etech Global Services, Gujarat, Gandhinagar as UI/Web Developer/Frontend/Designer", key_1:"Involve as Frontend Developer and designer on Multiple projects Like Amrit Ocean, VMS (voter management system). using various tools, visual Studio Code and implemented them using PHP, jQuery, HTML, CSS.", key_2:"Involve as UI/Frontend Developer and Designer on Business Websites (Amrit (Resort & Residences), ETech,Qevalpro, Etech Technology Solutions, Ayre, CMO) and implemented them using WordPress, Php, jQuery, HTML, CSS.", key_3: "Design/Developed and Manage/Handle Websites (Amrit, Etech, Qevalpro, JimIyoob, Enterice, Etech DFDMart,BBC Technology, CMO) Responsibilities with Responsive UI." },
 
 { year: "2017-2018", exp_info:" MRR Hope Infotech Solutions Private Limited, Gujarat, Ahmedabad as UI/Web Developer/Designer", key_1:"Involved as Frontend Developer and designer on two software (Vishwan And Dial Punch). using various tools, phpstorm, visualStudio Code and implemented them using PHP, Vue.js, jQuery.", key_2:"Involve as UI Developer and Designer on Business Websites and implemented them using WordPress, Php, jQuery.", key_3: "Developed from Scratch to Websites with Responsive UI." },
 
-{ year: "2015-2017", exp_info:"Kaizen Infocomm Private Limited, Gujarat, Ahmedabad as Junior UI/Web Developer/Designer", key_1:"Involved as Frontend Developer and designer on two software (products).using various tools, visual Studio, NetBeans and implementing them using PHP, C#, JQuery.", key_2 : "Involve as UI Developer on transportation Related Project and E-Commerce Website (Projects). using various tools, NetBeans and implemented them using PHP, jQuery.", key_3: "Developed Responsive UI" }];
+{ year: "2015-2017", exp_info:"Kaizen Infocomm Private Limited, Gujarat, Ahmedabad as Junior UI/Web Developer/Designer", key_1:"Involved as Frontend Developer and designer on two software (products).using various tools, visual Studio, NetBeans and implementing them using PHP, C#, JQuery.", key_2 : "Involve as UI Developer on transportation Related Project and E-Commerce Website (Projects). using various tools, NetBeans and implemented them using PHP, jQuery.", key_3: "Developed Responsive UI." }];
 
 const ExperianceBox = (props) => (
 
@@ -27,10 +27,10 @@ const ExperianceBox = (props) => (
 
   );
   
-function Experiance(props) {
+function Experience(props) {
     return (
         <div>
-            <div className="expe-section" id="exeriance">
+            <div className="expe-section" id="experience">
               <div className="container pos-relative">
                   <div className="scroll-strip">
                     <svg className="heart" viewBox="0 0 32 29.6">
@@ -56,4 +56,4 @@ function Experiance(props) {
     );
 }
 
-export default Experiance;
+export default Experience;
