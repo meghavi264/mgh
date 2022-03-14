@@ -668,19 +668,32 @@ button {
   a.nav-link:hover {
     color: $normalpurple;
   }
-  @media (max-width: 830px) {
-    text-align: center;
 
+  
+  @media (max-width: 767px) {
+   
+    text-align: center;
+    .social-icon {
+      justify-content: center;
+      display: flex;
+      
+    }
     .foot-cont p {
       width: 100%;
     }
     h4 {
       margin-bottom: 0;
     }
+  
+  }
+  @media (max-width: 830px) and (orientation:landscape){
+    text-align: center;
     .social-icon {
       justify-content: center;
       display: flex;
+      
     }
+   
   }
 }
 
@@ -693,7 +706,7 @@ button {
   }
   a {
     font-family: $secfont;
-    font-size: 16px;
+    font-size: 15px;
     color: $normalpurple;
     font-weight: 300;
     padding: 10px 0;

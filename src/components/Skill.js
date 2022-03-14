@@ -115,7 +115,7 @@ function skill(props) {
                       />
                     </svg>
                   </div>
-                  <div className="row py-5">
+                  <div className="row py-lg-5 pt-0 pb-5">
                  
                   {carddata.map(info =>
                       <Skillcard percentage= {info.percentage} lang_name={info.lang_name} lang_info={info.lang_info} lang_name_2={info.lang_name_2}  lang_name_3={info.lang_name_3}/>

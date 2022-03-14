@@ -610,15 +610,24 @@ button {
 .foot-section a.nav-link:hover {
   color: #c7a0f1;
 }
-@media (max-width: 830px) {
+@media (max-width: 767px) {
   .foot-section {
     text-align: center;
+  }
+  .foot-section .social-icon {
+    justify-content: center;
+    display: flex;
   }
   .foot-section .foot-cont p {
     width: 100%;
   }
   .foot-section h4 {
     margin-bottom: 0;
+  }
+}
+@media (max-width: 830px) and (orientation: landscape) {
+  .foot-section {
+    text-align: center;
   }
   .foot-section .social-icon {
     justify-content: center;
@@ -634,7 +643,7 @@ button {
 }
 .contact-box h5 a {
   font-family: "Work Sans", sans-serif;
-  font-size: 16px;
+  font-size: 15px;
   color: #c7a0f1;
   font-weight: 300;
   padding: 10px 0;

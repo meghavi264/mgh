@@ -16,7 +16,7 @@ import { faEnvelope } from '@fortawesome/fontawesome-free-regular';
 function Footer(props) {
     return (
         <div>
-            <div className="foot-section py-5" id="footer">
+            <div className="foot-section pt-5" id="footer">
             <div className="container">
 
 <div className="row">

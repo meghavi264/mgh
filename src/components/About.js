@@ -63,8 +63,8 @@ useEffect(() =>{
   if(status  === "Success"){
     setTimeout(() => {
       setstatus('');
-     
-    }, 3000);
+      handleClose();
+    }, 4000);
   }
 }
 
