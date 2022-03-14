@@ -141,7 +141,7 @@ useEffect(() =>{
     </div>
   );
   const pfdDownload =() =>(
-    <a className="btn btn-mgh" href='../doc/Meghavi-resume.pdf' download>download</a>
+    <a className="btn btn-mgh" href='../doc/mgh-resume.pdf' download>download</a>
   )
 export default About;
 
