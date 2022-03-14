@@ -633,6 +633,9 @@ button {
     justify-content: center;
     display: flex;
   }
+  .foot-section .foot-cont p {
+    width: 100%;
+  }
 }
 
 .contact-box h5 .fa {
