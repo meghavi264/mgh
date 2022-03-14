@@ -36,7 +36,7 @@ emaijs.send('service_ubze9pz',
 'template_popqyde',
 values,
 'W24cdjTd0UtG3BIgh').then(Response => {
-  console.log('success....',Response );
+  
 
   setValues({
   username:'',
